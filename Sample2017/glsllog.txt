@@ -1,0 +1,6 @@
+
+0(22) : error C1503: undefined variable "Normal"
+0(31) : error C1503: undefined variable "Normal"
+0(35) : error C1503: undefined variable "Normal"
+0(37) : error C1503: undefined variable "Normal"
+

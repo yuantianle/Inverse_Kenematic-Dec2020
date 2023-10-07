@@ -1,0 +1,145 @@
+﻿  program.cpp
+F:\Google 云端硬盘\OSU STUDY\OSU 2020 WINTER\CS 419 Animation\Assignment 2\Sample2017\objects.h(116,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\Google 云端硬盘\OSU STUDY\OSU 2020 WINTER\CS 419 Animation\Assignment 2\Sample2017\objects.h(117,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\Google 云端硬盘\OSU STUDY\OSU 2020 WINTER\CS 419 Animation\Assignment 2\Sample2017\objects.h(118,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\Google 云端硬盘\OSU STUDY\OSU 2020 WINTER\CS 419 Animation\Assignment 2\Sample2017\objects.h(119,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\Google 云端硬盘\OSU STUDY\OSU 2020 WINTER\CS 419 Animation\Assignment 2\Sample2017\objects.h(279,1): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\Google 云端硬盘\OSU STUDY\OSU 2020 WINTER\CS 419 Animation\Assignment 2\Sample2017\objects.h(280,1): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\Google 云端硬盘\OSU STUDY\OSU 2020 WINTER\CS 419 Animation\Assignment 2\Sample2017\objects.h(281,1): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\Google 云端硬盘\OSU STUDY\OSU 2020 WINTER\CS 419 Animation\Assignment 2\Sample2017\objects.h(396,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+F:\Google 云端硬盘\OSU STUDY\OSU 2020 WINTER\CS 419 Animation\Assignment 2\Sample2017\objects.h(401,58): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\Google 云端硬盘\OSU STUDY\OSU 2020 WINTER\CS 419 Animation\Assignment 2\Sample2017\objects.h(403,64): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\Google 云端硬盘\OSU STUDY\OSU 2020 WINTER\CS 419 Animation\Assignment 2\Sample2017\objects.h(403,22): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+F:\Google 云端硬盘\OSU STUDY\OSU 2020 WINTER\CS 419 Animation\Assignment 2\Sample2017\objects.h(408,1): warning C4305: '+=': truncation from 'double' to 'float'
+F:\Google 云端硬盘\OSU STUDY\OSU 2020 WINTER\CS 419 Animation\Assignment 2\Sample2017\objects.h(494,1): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+F:\Google 云端硬盘\OSU STUDY\OSU 2020 WINTER\CS 419 Animation\Assignment 2\Sample2017\objects.h(500,1): warning C4305: '+=': truncation from 'double' to 'float'
+F:\Google 云端硬盘\OSU STUDY\OSU 2020 WINTER\CS 419 Animation\Assignment 2\Sample2017\objects.h(650,1): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\Google 云端硬盘\OSU STUDY\OSU 2020 WINTER\CS 419 Animation\Assignment 2\Sample2017\objects.h(652,1): warning C4244: '-=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\Google 云端硬盘\OSU STUDY\OSU 2020 WINTER\CS 419 Animation\Assignment 2\Sample2017\objects.h(717,1): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\Google 云端硬盘\OSU STUDY\OSU 2020 WINTER\CS 419 Animation\Assignment 2\Sample2017\objects.h(718,1): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\Google 云端硬盘\OSU STUDY\OSU 2020 WINTER\CS 419 Animation\Assignment 2\Sample2017\objects.h(719,1): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\Google 云端硬盘\OSU STUDY\OSU 2020 WINTER\CS 419 Animation\Assignment 2\Sample2017\objects.h(752,1): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Google 云端硬盘\OSU STUDY\OSU 2020 WINTER\CS 419 Animation\Assignment 2\Sample2017\objects.h(778,1): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Google 云端硬盘\OSU STUDY\OSU 2020 WINTER\CS 419 Animation\Assignment 2\Sample2017\objects.h(793,1): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+F:\Google 云端硬盘\OSU STUDY\OSU 2020 WINTER\CS 419 Animation\Assignment 2\Sample2017\objects.h(815,1): warning C4305: '=': truncation from 'double' to 'float'
+F:\Google 云端硬盘\OSU STUDY\OSU 2020 WINTER\CS 419 Animation\Assignment 2\Sample2017\objects.h(890,1): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Google 云端硬盘\OSU STUDY\OSU 2020 WINTER\CS 419 Animation\Assignment 2\Sample2017\objects.h(897,1): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Google 云端硬盘\OSU STUDY\OSU 2020 WINTER\CS 419 Animation\Assignment 2\Sample2017\objects.h(904,1): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Google 云端硬盘\OSU STUDY\OSU 2020 WINTER\CS 419 Animation\Assignment 2\Sample2017\objects.h(934,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\Google 云端硬盘\OSU STUDY\OSU 2020 WINTER\CS 419 Animation\Assignment 2\Sample2017\objects.h(935,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\Google 云端硬盘\OSU STUDY\OSU 2020 WINTER\CS 419 Animation\Assignment 2\Sample2017\objects.h(936,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\Google 云端硬盘\OSU STUDY\OSU 2020 WINTER\CS 419 Animation\Assignment 2\Sample2017\objects.h(1039,1): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\Google 云端硬盘\OSU STUDY\OSU 2020 WINTER\CS 419 Animation\Assignment 2\Sample2017\objects.h(1040,1): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\Google 云端硬盘\OSU STUDY\OSU 2020 WINTER\CS 419 Animation\Assignment 2\Sample2017\objects.h(1041,1): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\Google 云端硬盘\OSU STUDY\OSU 2020 WINTER\CS 419 Animation\Assignment 2\Sample2017\objects.h(1046,1): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\Google 云端硬盘\OSU STUDY\OSU 2020 WINTER\CS 419 Animation\Assignment 2\Sample2017\objects.h(1047,1): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\Google 云端硬盘\OSU STUDY\OSU 2020 WINTER\CS 419 Animation\Assignment 2\Sample2017\objects.h(1048,1): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+F:\Google 云端硬盘\OSU STUDY\OSU 2020 WINTER\CS 419 Animation\Assignment 2\Sample2017\objects.h(1161,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\Google 云端硬盘\OSU STUDY\OSU 2020 WINTER\CS 419 Animation\Assignment 2\Sample2017\objects.h(1161,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\Google 云端硬盘\OSU STUDY\OSU 2020 WINTER\CS 419 Animation\Assignment 2\Sample2017\objects.h(1161,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\Google 云端硬盘\OSU STUDY\OSU 2020 WINTER\CS 419 Animation\Assignment 2\Sample2017\objects.h(1165,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\Google 云端硬盘\OSU STUDY\OSU 2020 WINTER\CS 419 Animation\Assignment 2\Sample2017\objects.h(1165,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\Google 云端硬盘\OSU STUDY\OSU 2020 WINTER\CS 419 Animation\Assignment 2\Sample2017\objects.h(1165,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\Google 云端硬盘\OSU STUDY\OSU 2020 WINTER\CS 419 Animation\Assignment 2\Sample2017\objects.h(1169,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\Google 云端硬盘\OSU STUDY\OSU 2020 WINTER\CS 419 Animation\Assignment 2\Sample2017\objects.h(1169,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\Google 云端硬盘\OSU STUDY\OSU 2020 WINTER\CS 419 Animation\Assignment 2\Sample2017\objects.h(1169,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\Google 云端硬盘\OSU STUDY\OSU 2020 WINTER\CS 419 Animation\Assignment 2\Sample2017\objects.h(1174,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\Google 云端硬盘\OSU STUDY\OSU 2020 WINTER\CS 419 Animation\Assignment 2\Sample2017\objects.h(1174,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\Google 云端硬盘\OSU STUDY\OSU 2020 WINTER\CS 419 Animation\Assignment 2\Sample2017\objects.h(1174,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\Google 云端硬盘\OSU STUDY\OSU 2020 WINTER\CS 419 Animation\Assignment 2\Sample2017\objects.h(1179,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\Google 云端硬盘\OSU STUDY\OSU 2020 WINTER\CS 419 Animation\Assignment 2\Sample2017\objects.h(1179,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\Google 云端硬盘\OSU STUDY\OSU 2020 WINTER\CS 419 Animation\Assignment 2\Sample2017\objects.h(1179,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\Google 云端硬盘\OSU STUDY\OSU 2020 WINTER\CS 419 Animation\Assignment 2\Sample2017\objects.h(1184,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\Google 云端硬盘\OSU STUDY\OSU 2020 WINTER\CS 419 Animation\Assignment 2\Sample2017\objects.h(1184,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\Google 云端硬盘\OSU STUDY\OSU 2020 WINTER\CS 419 Animation\Assignment 2\Sample2017\objects.h(1184,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\Google 云端硬盘\OSU STUDY\OSU 2020 WINTER\CS 419 Animation\Assignment 2\Sample2017\objects.h(1189,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\Google 云端硬盘\OSU STUDY\OSU 2020 WINTER\CS 419 Animation\Assignment 2\Sample2017\objects.h(1189,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\Google 云端硬盘\OSU STUDY\OSU 2020 WINTER\CS 419 Animation\Assignment 2\Sample2017\objects.h(1194,70): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\Google 云端硬盘\OSU STUDY\OSU 2020 WINTER\CS 419 Animation\Assignment 2\Sample2017\objects.h(1194,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\Google 云端硬盘\OSU STUDY\OSU 2020 WINTER\CS 419 Animation\Assignment 2\Sample2017\objects.h(1194,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\Google 云端硬盘\OSU STUDY\OSU 2020 WINTER\CS 419 Animation\Assignment 2\Sample2017\objects.h(1199,70): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\Google 云端硬盘\OSU STUDY\OSU 2020 WINTER\CS 419 Animation\Assignment 2\Sample2017\objects.h(1199,51): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\Google 云端硬盘\OSU STUDY\OSU 2020 WINTER\CS 419 Animation\Assignment 2\Sample2017\objects.h(1199,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\Google 云端硬盘\OSU STUDY\OSU 2020 WINTER\CS 419 Animation\Assignment 2\Sample2017\objects.h(1215,72): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\Google 云端硬盘\OSU STUDY\OSU 2020 WINTER\CS 419 Animation\Assignment 2\Sample2017\objects.h(1215,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\Google 云端硬盘\OSU STUDY\OSU 2020 WINTER\CS 419 Animation\Assignment 2\Sample2017\objects.h(1215,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\Google 云端硬盘\OSU STUDY\OSU 2020 WINTER\CS 419 Animation\Assignment 2\Sample2017\objects.h(1219,72): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\Google 云端硬盘\OSU STUDY\OSU 2020 WINTER\CS 419 Animation\Assignment 2\Sample2017\objects.h(1219,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\Google 云端硬盘\OSU STUDY\OSU 2020 WINTER\CS 419 Animation\Assignment 2\Sample2017\objects.h(1219,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\Google 云端硬盘\OSU STUDY\OSU 2020 WINTER\CS 419 Animation\Assignment 2\Sample2017\objects.h(1224,73): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\Google 云端硬盘\OSU STUDY\OSU 2020 WINTER\CS 419 Animation\Assignment 2\Sample2017\objects.h(1224,54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\Google 云端硬盘\OSU STUDY\OSU 2020 WINTER\CS 419 Animation\Assignment 2\Sample2017\objects.h(1224,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\Google 云端硬盘\OSU STUDY\OSU 2020 WINTER\CS 419 Animation\Assignment 2\Sample2017\objects.h(1230,73): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\Google 云端硬盘\OSU STUDY\OSU 2020 WINTER\CS 419 Animation\Assignment 2\Sample2017\objects.h(1230,53): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\Google 云端硬盘\OSU STUDY\OSU 2020 WINTER\CS 419 Animation\Assignment 2\Sample2017\objects.h(1230,34): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\Google 云端硬盘\OSU STUDY\OSU 2020 WINTER\CS 419 Animation\Assignment 2\Sample2017\objects.h(1248,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\Google 云端硬盘\OSU STUDY\OSU 2020 WINTER\CS 419 Animation\Assignment 2\Sample2017\objects.h(1249,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\Google 云端硬盘\OSU STUDY\OSU 2020 WINTER\CS 419 Animation\Assignment 2\Sample2017\objects.h(1250,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+F:\Google 云端硬盘\OSU STUDY\OSU 2020 WINTER\CS 419 Animation\Assignment 2\Sample2017\objects.h(1443,1): warning C4305: 'argument': truncation from 'double' to 'float'
+F:\Google 云端硬盘\OSU STUDY\OSU 2020 WINTER\CS 419 Animation\Assignment 2\Sample2017\program.cpp(294,29): warning C4305: '+=': truncation from 'double' to 'float'
+F:\Google 云端硬盘\OSU STUDY\OSU 2020 WINTER\CS 419 Animation\Assignment 2\Sample2017\program.cpp(879,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+F:\Google 云端硬盘\OSU STUDY\OSU 2020 WINTER\CS 419 Animation\Assignment 2\Sample2017\program.cpp(914,7): warning C4101: 'valid': unreferenced local variable
+F:\Google 云端硬盘\OSU STUDY\OSU 2020 WINTER\CS 419 Animation\Assignment 2\Sample2017\program.cpp(978,15): warning C4305: '+=': truncation from 'double' to 'float'
+F:\Google 云端硬盘\OSU STUDY\OSU 2020 WINTER\CS 419 Animation\Assignment 2\Sample2017\program.cpp(983,15): warning C4305: '-=': truncation from 'double' to 'float'
+F:\Google 云端硬盘\OSU STUDY\OSU 2020 WINTER\CS 419 Animation\Assignment 2\Sample2017\program.cpp(988,15): warning C4305: '+=': truncation from 'double' to 'float'
+F:\Google 云端硬盘\OSU STUDY\OSU 2020 WINTER\CS 419 Animation\Assignment 2\Sample2017\program.cpp(993,15): warning C4305: '-=': truncation from 'double' to 'float'
+F:\Google 云端硬盘\OSU STUDY\OSU 2020 WINTER\CS 419 Animation\Assignment 2\Sample2017\program.cpp(998,15): warning C4305: '+=': truncation from 'double' to 'float'
+F:\Google 云端硬盘\OSU STUDY\OSU 2020 WINTER\CS 419 Animation\Assignment 2\Sample2017\program.cpp(1003,15): warning C4305: '-=': truncation from 'double' to 'float'
+glslprogram.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  Sample.vcxproj -> F:\Google 云端硬盘\OSU STUDY\OSU 2020 WINTER\CS 419 Animation\Assignment 2\Sample2017\.\Debug\Sample.exe

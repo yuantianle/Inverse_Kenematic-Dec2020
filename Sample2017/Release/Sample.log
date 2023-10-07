@@ -1,0 +1,182 @@
+﻿  glslprogram.cpp
+C:\Users\Michael\Google 云端硬盘\OSU STUDY\OSU 2019 FALL\CS 450\Final\Sample2017\glslprogram.cpp(271): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+C:\Users\Michael\Google 云端硬盘\OSU STUDY\OSU 2019 FALL\CS 450\Final\Sample2017\glslprogram.cpp(325): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+C:\Users\Michael\Google 云端硬盘\OSU STUDY\OSU 2019 FALL\CS 450\Final\Sample2017\glslprogram.cpp(820): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+C:\Users\Michael\Google 云端硬盘\OSU STUDY\OSU 2019 FALL\CS 450\Final\Sample2017\glslprogram.cpp(835): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.17763.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+  sample.cpp
+C:\Users\Michael\Google 云端硬盘\OSU STUDY\OSU 2019 FALL\CS 450\Final\Sample2017\sample.cpp(443): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Michael\Google 云端硬盘\OSU STUDY\OSU 2019 FALL\CS 450\Final\Sample2017\sample.cpp(448): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Michael\Google 云端硬盘\OSU STUDY\OSU 2019 FALL\CS 450\Final\Sample2017\sample.cpp(460): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Michael\Google 云端硬盘\OSU STUDY\OSU 2019 FALL\CS 450\Final\Sample2017\sample.cpp(463): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Michael\Google 云端硬盘\OSU STUDY\OSU 2019 FALL\CS 450\Final\Sample2017\sample.cpp(464): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Michael\Google 云端硬盘\OSU STUDY\OSU 2019 FALL\CS 450\Final\Sample2017\sample.cpp(483): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Michael\Google 云端硬盘\OSU STUDY\OSU 2019 FALL\CS 450\Final\Sample2017\sample.cpp(497): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Michael\Google 云端硬盘\OSU STUDY\OSU 2019 FALL\CS 450\Final\Sample2017\sample.cpp(498): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Michael\Google 云端硬盘\OSU STUDY\OSU 2019 FALL\CS 450\Final\Sample2017\sample.cpp(514): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Michael\Google 云端硬盘\OSU STUDY\OSU 2019 FALL\CS 450\Final\Sample2017\sample.cpp(515): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Michael\Google 云端硬盘\OSU STUDY\OSU 2019 FALL\CS 450\Final\Sample2017\sample.cpp(720): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Michael\Google 云端硬盘\OSU STUDY\OSU 2019 FALL\CS 450\Final\Sample2017\sample.cpp(723): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Michael\Google 云端硬盘\OSU STUDY\OSU 2019 FALL\CS 450\Final\Sample2017\sample.cpp(726): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Michael\Google 云端硬盘\OSU STUDY\OSU 2019 FALL\CS 450\Final\Sample2017\sample.cpp(744): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Michael\Google 云端硬盘\OSU STUDY\OSU 2019 FALL\CS 450\Final\Sample2017\sample.cpp(747): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Michael\Google 云端硬盘\OSU STUDY\OSU 2019 FALL\CS 450\Final\Sample2017\sample.cpp(750): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Michael\Google 云端硬盘\OSU STUDY\OSU 2019 FALL\CS 450\Final\Sample2017\sample.cpp(763): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Michael\Google 云端硬盘\OSU STUDY\OSU 2019 FALL\CS 450\Final\Sample2017\sample.cpp(767): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Michael\Google 云端硬盘\OSU STUDY\OSU 2019 FALL\CS 450\Final\Sample2017\sample.cpp(771): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Michael\Google 云端硬盘\OSU STUDY\OSU 2019 FALL\CS 450\Final\Sample2017\sample.cpp(1119): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\Michael\Google 云端硬盘\OSU STUDY\OSU 2019 FALL\CS 450\Final\Sample2017\sample.cpp(1134): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Michael\Google 云端硬盘\OSU STUDY\OSU 2019 FALL\CS 450\Final\Sample2017\sample.cpp(1139): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Michael\Google 云端硬盘\OSU STUDY\OSU 2019 FALL\CS 450\Final\Sample2017\sample.cpp(1216): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Michael\Google 云端硬盘\OSU STUDY\OSU 2019 FALL\CS 450\Final\Sample2017\sample.cpp(1226): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Michael\Google 云端硬盘\OSU STUDY\OSU 2019 FALL\CS 450\Final\Sample2017\sample.cpp(1227): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Michael\Google 云端硬盘\OSU STUDY\OSU 2019 FALL\CS 450\Final\Sample2017\sample.cpp(1228): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Michael\Google 云端硬盘\OSU STUDY\OSU 2019 FALL\CS 450\Final\Sample2017\sample.cpp(1303): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Michael\Google 云端硬盘\OSU STUDY\OSU 2019 FALL\CS 450\Final\Sample2017\sample.cpp(1308): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Michael\Google 云端硬盘\OSU STUDY\OSU 2019 FALL\CS 450\Final\Sample2017\sample.cpp(1310): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Michael\Google 云端硬盘\OSU STUDY\OSU 2019 FALL\CS 450\Final\Sample2017\sample.cpp(1310): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Michael\Google 云端硬盘\OSU STUDY\OSU 2019 FALL\CS 450\Final\Sample2017\sample.cpp(1315): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Michael\Google 云端硬盘\OSU STUDY\OSU 2019 FALL\CS 450\Final\Sample2017\sample.cpp(1377): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Michael\Google 云端硬盘\OSU STUDY\OSU 2019 FALL\CS 450\Final\Sample2017\sample.cpp(1383): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Michael\Google 云端硬盘\OSU STUDY\OSU 2019 FALL\CS 450\Final\Sample2017\sample.cpp(1537): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Michael\Google 云端硬盘\OSU STUDY\OSU 2019 FALL\CS 450\Final\Sample2017\sample.cpp(1539): warning C4244: '-=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Michael\Google 云端硬盘\OSU STUDY\OSU 2019 FALL\CS 450\Final\Sample2017\sample.cpp(1604): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Michael\Google 云端硬盘\OSU STUDY\OSU 2019 FALL\CS 450\Final\Sample2017\sample.cpp(1605): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Michael\Google 云端硬盘\OSU STUDY\OSU 2019 FALL\CS 450\Final\Sample2017\sample.cpp(1606): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Michael\Google 云端硬盘\OSU STUDY\OSU 2019 FALL\CS 450\Final\Sample2017\sample.cpp(1638): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Michael\Google 云端硬盘\OSU STUDY\OSU 2019 FALL\CS 450\Final\Sample2017\sample.cpp(1664): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Michael\Google 云端硬盘\OSU STUDY\OSU 2019 FALL\CS 450\Final\Sample2017\sample.cpp(1679): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Michael\Google 云端硬盘\OSU STUDY\OSU 2019 FALL\CS 450\Final\Sample2017\sample.cpp(1701): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Michael\Google 云端硬盘\OSU STUDY\OSU 2019 FALL\CS 450\Final\Sample2017\sample.cpp(1776): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Michael\Google 云端硬盘\OSU STUDY\OSU 2019 FALL\CS 450\Final\Sample2017\sample.cpp(1783): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Michael\Google 云端硬盘\OSU STUDY\OSU 2019 FALL\CS 450\Final\Sample2017\sample.cpp(1790): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Michael\Google 云端硬盘\OSU STUDY\OSU 2019 FALL\CS 450\Final\Sample2017\sample.cpp(1820): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Michael\Google 云端硬盘\OSU STUDY\OSU 2019 FALL\CS 450\Final\Sample2017\sample.cpp(1821): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Michael\Google 云端硬盘\OSU STUDY\OSU 2019 FALL\CS 450\Final\Sample2017\sample.cpp(1822): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Michael\Google 云端硬盘\OSU STUDY\OSU 2019 FALL\CS 450\Final\Sample2017\sample.cpp(1925): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Michael\Google 云端硬盘\OSU STUDY\OSU 2019 FALL\CS 450\Final\Sample2017\sample.cpp(1926): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Michael\Google 云端硬盘\OSU STUDY\OSU 2019 FALL\CS 450\Final\Sample2017\sample.cpp(1927): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Michael\Google 云端硬盘\OSU STUDY\OSU 2019 FALL\CS 450\Final\Sample2017\sample.cpp(1932): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Michael\Google 云端硬盘\OSU STUDY\OSU 2019 FALL\CS 450\Final\Sample2017\sample.cpp(1933): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Michael\Google 云端硬盘\OSU STUDY\OSU 2019 FALL\CS 450\Final\Sample2017\sample.cpp(1934): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Michael\Google 云端硬盘\OSU STUDY\OSU 2019 FALL\CS 450\Final\Sample2017\sample.cpp(2045): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Michael\Google 云端硬盘\OSU STUDY\OSU 2019 FALL\CS 450\Final\Sample2017\sample.cpp(2049): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Michael\Google 云端硬盘\OSU STUDY\OSU 2019 FALL\CS 450\Final\Sample2017\sample.cpp(2053): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Michael\Google 云端硬盘\OSU STUDY\OSU 2019 FALL\CS 450\Final\Sample2017\sample.cpp(2058): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Michael\Google 云端硬盘\OSU STUDY\OSU 2019 FALL\CS 450\Final\Sample2017\sample.cpp(2063): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Michael\Google 云端硬盘\OSU STUDY\OSU 2019 FALL\CS 450\Final\Sample2017\sample.cpp(2068): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Michael\Google 云端硬盘\OSU STUDY\OSU 2019 FALL\CS 450\Final\Sample2017\sample.cpp(2073): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Michael\Google 云端硬盘\OSU STUDY\OSU 2019 FALL\CS 450\Final\Sample2017\sample.cpp(2078): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Michael\Google 云端硬盘\OSU STUDY\OSU 2019 FALL\CS 450\Final\Sample2017\sample.cpp(2083): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Michael\Google 云端硬盘\OSU STUDY\OSU 2019 FALL\CS 450\Final\Sample2017\sample.cpp(2099): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Michael\Google 云端硬盘\OSU STUDY\OSU 2019 FALL\CS 450\Final\Sample2017\sample.cpp(2103): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Michael\Google 云端硬盘\OSU STUDY\OSU 2019 FALL\CS 450\Final\Sample2017\sample.cpp(2108): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Michael\Google 云端硬盘\OSU STUDY\OSU 2019 FALL\CS 450\Final\Sample2017\sample.cpp(2114): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Michael\Google 云端硬盘\OSU STUDY\OSU 2019 FALL\CS 450\Final\Sample2017\sample.cpp(2132): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Michael\Google 云端硬盘\OSU STUDY\OSU 2019 FALL\CS 450\Final\Sample2017\sample.cpp(2133): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Michael\Google 云端硬盘\OSU STUDY\OSU 2019 FALL\CS 450\Final\Sample2017\sample.cpp(2134): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Michael\Google 云端硬盘\OSU STUDY\OSU 2019 FALL\CS 450\Final\Sample2017\sample.cpp(2172): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Michael\Google 云端硬盘\OSU STUDY\OSU 2019 FALL\CS 450\Final\Sample2017\sample.cpp(2310): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Michael\Google 云端硬盘\OSU STUDY\OSU 2019 FALL\CS 450\Final\Sample2017\sample.cpp(2327): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Michael\Google 云端硬盘\OSU STUDY\OSU 2019 FALL\CS 450\Final\Sample2017\sample.cpp(2468): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Michael\Google 云端硬盘\OSU STUDY\OSU 2019 FALL\CS 450\Final\Sample2017\sample.cpp(2469): warning C4305: '=': truncation from 'double' to 'float'
+C:\Users\Michael\Google 云端硬盘\OSU STUDY\OSU 2019 FALL\CS 450\Final\Sample2017\sample.cpp(2922): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Michael\Google 云端硬盘\OSU STUDY\OSU 2019 FALL\CS 450\Final\Sample2017\sample.cpp(2984): warning C4101: 'valid': unreferenced local variable
+C:\Users\Michael\Google 云端硬盘\OSU STUDY\OSU 2019 FALL\CS 450\Final\Sample2017\sample.cpp(3051): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Michael\Google 云端硬盘\OSU STUDY\OSU 2019 FALL\CS 450\Final\Sample2017\sample.cpp(3056): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Michael\Google 云端硬盘\OSU STUDY\OSU 2019 FALL\CS 450\Final\Sample2017\sample.cpp(3061): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Michael\Google 云端硬盘\OSU STUDY\OSU 2019 FALL\CS 450\Final\Sample2017\sample.cpp(3066): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Michael\Google 云端硬盘\OSU STUDY\OSU 2019 FALL\CS 450\Final\Sample2017\sample.cpp(3071): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Michael\Google 云端硬盘\OSU STUDY\OSU 2019 FALL\CS 450\Final\Sample2017\sample.cpp(3076): warning C4305: '-=': truncation from 'double' to 'float'
+  Generating Code...
+glslprogram.obj : error LNK2001: unresolved external symbol __imp____glewAttachShader
+glslprogram.obj : error LNK2001: unresolved external symbol __imp____glewCompileShader
+glslprogram.obj : error LNK2001: unresolved external symbol __imp____glewCreateProgram
+glslprogram.obj : error LNK2001: unresolved external symbol __imp____glewCreateShader
+glslprogram.obj : error LNK2001: unresolved external symbol __imp____glewDeleteProgram
+glslprogram.obj : error LNK2001: unresolved external symbol __imp____glewDeleteShader
+glslprogram.obj : error LNK2001: unresolved external symbol __imp____glewGetAttribLocation
+glslprogram.obj : error LNK2001: unresolved external symbol __imp____glewGetProgramInfoLog
+glslprogram.obj : error LNK2001: unresolved external symbol __imp____glewGetProgramiv
+glslprogram.obj : error LNK2001: unresolved external symbol __imp____glewGetShaderInfoLog
+glslprogram.obj : error LNK2001: unresolved external symbol __imp____glewGetShaderiv
+glslprogram.obj : error LNK2001: unresolved external symbol __imp____glewGetUniformLocation
+glslprogram.obj : error LNK2001: unresolved external symbol __imp____glewLinkProgram
+glslprogram.obj : error LNK2001: unresolved external symbol __imp____glewShaderSource
+glslprogram.obj : error LNK2001: unresolved external symbol __imp____glewUniform1f
+glslprogram.obj : error LNK2001: unresolved external symbol __imp____glewUniform1i
+glslprogram.obj : error LNK2001: unresolved external symbol __imp____glewUniform3f
+glslprogram.obj : error LNK2001: unresolved external symbol __imp____glewUniform3fv
+glslprogram.obj : error LNK2001: unresolved external symbol __imp____glewUniformMatrix4fv
+glslprogram.obj : error LNK2001: unresolved external symbol __imp____glewUseProgram
+glslprogram.obj : error LNK2001: unresolved external symbol __imp____glewValidateProgram
+glslprogram.obj : error LNK2001: unresolved external symbol __imp____glewVertexAttrib1f
+glslprogram.obj : error LNK2001: unresolved external symbol __imp____glewVertexAttrib3f
+glslprogram.obj : error LNK2001: unresolved external symbol __imp____glewVertexAttrib3fv
+glslprogram.obj : error LNK2001: unresolved external symbol __imp____glewDispatchCompute
+glslprogram.obj : error LNK2001: unresolved external symbol __imp____glewGetProgramBinary
+glslprogram.obj : error LNK2001: unresolved external symbol __imp____glewProgramBinary
+glslprogram.obj : error LNK2001: unresolved external symbol __imp____glewProgramParameteri
+sample.obj : error LNK2019: unresolved external symbol __imp__glewInit@0 referenced in function "void __cdecl InitGraphics(void)" (?InitGraphics@@YAXXZ)
+sample.obj : error LNK2019: unresolved external symbol __imp__glewGetString@4 referenced in function "void __cdecl InitGraphics(void)" (?InitGraphics@@YAXXZ)
+sample.obj : error LNK2001: unresolved external symbol __imp____glewActiveTexture
+.\Release\Sample.exe : fatal error LNK1120: 31 unresolved externals
